@@ -8,7 +8,8 @@
 | 3  | 1655663793this_is_a_bitcoin_block_of_62321234 | 0000dac1581541a743ac79e6e5814438b4d055c0468d257dc2127b5d5bc079ce  | 1        | 30,000    |
 | 4  | 719498601this_is_a_bitcoin_block_of_62321234 | 0000417ae5759c448e0fed78763ba1f366af88614d88cc756cf2cd6adb9225ac  | 1        | 50,000    |
 | 5  | 182792973this_is_a_bitcoin_block_of_62321234 | 000009ef410812f54e1d0ebd1445f7a2248caea5ba5eb0d5ea8b4369e3b2dc85  | 1        | 100,000   |
-| 6  | 767710983this_is_a_bitcoin_block_of_62321234 | 00000005105b1a08b3f748fed406ccbb90304f02a17d18aefc5de9bfebd5106d  | 4        | 10,000,000 |
+| 6  | 1688203689this_is_a_bitcoin_block_of_62321234 | 00000032fe8db2306087051c6d9c5d26dc06a1f93456e287d4586ad35b2b50c8  | 4        | 10,000,000 |
+| 7  | 767710983this_is_a_bitcoin_block_of_62321234 | 00000005105b1a08b3f748fed406ccbb90304f02a17d18aefc5de9bfebd5106d  | 1236        | 9,000,000,000 |
 
 ## Explanation of Trials
 
