@@ -31,7 +31,7 @@ to:
 ```scala
 val nonce = sc.range(0, trials)
 ```
-
+My change to the code does not result in the program being able to find the nonce quicker or more easily. This is because of the nature of the SHA256 hashing, which is a cryptographically secure hashing function which will produces output that will appear like an uniformly random sequence to observer who does not know the input. Therefore, jsut because we are not guessing the nonce randomly doesn't make it more liekly we find the nocne with fewer guesses.
 ## Screenshot
 
 ![Screenshot of the process](https://github.com/user-attachments/assets/f0dd3d94-402d-4f14-9fa6-eb68f93a37ab)
